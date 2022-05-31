@@ -13,7 +13,7 @@ Data collection and analsysis has been performed using R and Python. The followi
 - t-SNE plot script 
 - R descriptive, explorative and plotting analysis 
 
-The final dataset and acquired gender bias dictionary are also attached. 
+The final dataset is also attached. 
 
 ✉️ Contact
 
