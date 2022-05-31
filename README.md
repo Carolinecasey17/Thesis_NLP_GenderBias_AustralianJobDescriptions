@@ -8,7 +8,7 @@ This thesis aims to ivestigate the presence of implicit gender bias in job descr
 
 Data collection and analsysis has been performed using R and Python. The following scripts are attached: 
 - Scraper for extracting job descriptions from au.indeed.com
-- Pre-processing script 
+- Pre-processing script for cleaning job descriptions 
 - Word Embeddings analysis using pretrained Google News Word2Vec
 - t-SNE plot script 
 - R descriptive, explorative and plotting analysis 
